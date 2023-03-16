@@ -1,0 +1,14 @@
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.exe.config
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.exe
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.pdb
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.AssemblyReference.cache
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.SuggestedBindingRedirects.cache
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai1.resources
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmChinh.resources
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.Properties.Resources.resources
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.GenerateResource.cache
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.CoreCompileInputs.cache
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.exe
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.pdb
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai2.resources
+F:\desktop\VuBaDong_2111818_Lab1\BaiTapWindowForm\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai3.resources
