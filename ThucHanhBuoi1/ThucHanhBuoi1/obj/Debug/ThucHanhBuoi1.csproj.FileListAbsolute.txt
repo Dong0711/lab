@@ -1,0 +1,10 @@
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\bin\Debug\ThucHanhBuoi1.exe.config
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\bin\Debug\ThucHanhBuoi1.exe
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\bin\Debug\ThucHanhBuoi1.pdb
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.csprojAssemblyReference.cache
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.MainForm.resources
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.Properties.Resources.resources
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.csproj.GenerateResource.cache
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.csproj.CoreCompileInputs.cache
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.exe
+E:\TV4\PC419\VuBaDong_2111818_Lab1\ThucHanhBuoi1\ThucHanhBuoi1\obj\Debug\ThucHanhBuoi1.pdb
