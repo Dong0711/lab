@@ -1,0 +1,17 @@
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\bin\Debug\Bai4.exe.config
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\bin\Debug\Bai4.exe
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\bin\Debug\Bai4.pdb
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.csproj.SuggestedBindingRedirects.cache
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmChinh.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.exe
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.pdb
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmCau3Bai2.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmCau3Bai3.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmCau3Bai1.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmCau2Bai1.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmCau2Bai2.resources
+F:\desktop\VuBaDong_2111818_Lab1\Bai4\Bai4\obj\Debug\Bai4.frmCau2Bai3.resources
